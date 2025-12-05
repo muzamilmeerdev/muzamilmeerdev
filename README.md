@@ -24,7 +24,8 @@
 
 ---
 
-### 🧠 About Me:
+### 🧠 About Me:        
+                    MEMBER OF ICC INDIA CYBER CLUB 
 
 - 🔭 Currently building: **Python tools, Termux CLI tools, Web Dev projects**
 - 📚 BCA 3nd Semester student, growing every line of code at a time
