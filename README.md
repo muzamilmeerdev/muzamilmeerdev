@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1762147402/hello_nmb1cs.gif" width="300 height="30 "/>
+  <img src="" width="300 height="30 "/>
   
 </p>
 
