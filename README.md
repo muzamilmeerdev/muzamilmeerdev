@@ -83,8 +83,7 @@
 
 - 📧 **muzamilmeer598@gmail.com**
 - 📍 **Bandipora, Kashmir 🇮🇳**
-- 📸 [**Instagram: @hidden
-  ._mastermind**](https://www.instagram.com/hidden._mastermind)
+- 📸 [**Instagram: @software_developer_bandipora**](https://www.instagram.com/software_developer_bandipora)
 - 🐍 *Coded with ❤️, Termux, and late-night coffee sessions*
 
 ---
