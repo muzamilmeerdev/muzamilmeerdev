@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **React, GSAP, Tailwind, Three.js, API integrations**
 
-- 📫 How to reach me **muzamilmeerdev@gmail.com**
+- 📫 How to reach me **muzamilmeer598@gmail.com**
 
 
 <!--End Intro-->
