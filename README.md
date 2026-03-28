@@ -110,8 +110,8 @@
 <img src="./twitter.png" width=50 height=50 alt="muzamilmeerdev" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/muzamilmeerdev" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="muzamil--mir---" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/muzamil_mir___" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="muzamil_mir___" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/muzamilmeerdev" target="_blank">
