@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ MUZAMIL! 
-*Creative UI/UX Developer (React / GSAP / WebGL)*
+**
 <br /> 
 
 <!--Start Intro-->               
@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning ***Next.js, Tailwind, GSAP, Three.js, FastAPI**
 
-- 👯 I’m looking to collaborate on [Weather App – Animated UI with GSAP + Live API](https://github.com/muzamilmeerdev)
+- 👯 I’m looking to collaborate on [Weather App – Animated UI with GSAP + Live API](https://github.com/muzamilmeerdev//e-commerce)
 
 - 💬 Ask me about **React, GSAP, Tailwind, Three.js, API integrations**
 
