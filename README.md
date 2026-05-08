@@ -13,11 +13,11 @@
 
 <!--Start Intro-->               
 <p align="left">A passionate developer | Full-Stack Explorer | Creative UI/UX Craftsman from India.</p>
-- I’m currently working on : [Portfolio Website](https://github.com/muzamilmeerdev)
+- I’m currently working on : [Portfolio Website](https://bandipora-com.vercel.app/)
 
 - 🌱 I’m currently learning ***Next.js, Tailwind, GSAP, Three.js, FastAPI**
 
-- 👯 I’m looking to collaborate on [Weather App – Animated UI with GSAP + Live API](https://github.com/muzamilmeerdev//e-commerce)
+- 👯 I’m looking to collaborate on [WellCome-To-Bandipora-Explore](https://bandipora-com.vercel.app/)
 
 - 💬 Ask me about **React, GSAP, Tailwind, Three.js, API integrations**
 
@@ -51,7 +51,7 @@
 
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://muzamilmeerdevblogs.wordpress.com/">🔥latest blogs 🤖</a></li>
+  <li>🔥latest blogs 🤖</a></li>
   <li><a href="https://dev.to/muzamilmeerdev">🔥DEV.TO profile <1 min🙂</a></li>
 </ul>
 <br />
@@ -110,15 +110,15 @@
 <img src="./twitter.png" width=50 height=50 alt="muzamilmeerdev" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/muzamil_mir___" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="muzamil_mir___" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/muzamilmeerdev" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="muzamilmeerdev" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/muzamilmeerdev" target="_blank">
 <img src="./github.png" width=50 height=50 alt="muzamilmeerdev" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/muzamil ahmad/" target="_blank">
+<a href="https://www.linkedin.com/in/muzamilmeerdev/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
