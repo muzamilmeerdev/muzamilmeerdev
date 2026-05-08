@@ -12,9 +12,9 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">A passionate developer | Full-Stack Explorer | Creative UI/UX Craftsman from India.</p>
+<p align="left">A passionate developer | Full-Stack Explorer | Creative UI/UX Craftsman from India.</p><br>
 - I’m currently working on : [Portfolio Website](https://bandipora-com.vercel.app/)
-
+<br>
 - 🌱 I’m currently learning ***Next.js, Tailwind, GSAP, Three.js, FastAPI**
 
 - 👯 I’m looking to collaborate on [WellCome-To-Bandipora-Explore](https://bandipora-com.vercel.app/)
