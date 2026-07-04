@@ -59,21 +59,28 @@
 <br />
 <br />
 
-<!--Trophies Section-->   
+<!--Trophies Section-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+
 <p align="center">
   <a href="https://github.com/muzamilmeerdev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-     <img src="./graph..png" width="100%" alt="Contribution Graph">
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img
+        alt="GitHub Trophies"
+        src="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
 
 ---
 
-<!--Github stats Table--> 
+<!--Github stats Table-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -82,20 +89,37 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/muzamilmeerdev">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzamilmeerdev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img
+            align="center"
+            src="https://github-readme-stats.vercel.app/api?username=muzamilmeerdev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
+            alt="GitHub Stats" />
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/muzamilmeerdev">
-          <img align="center" src="https://streak-stats.demolab.com?user=muzamilmeerdev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img
+            align="center"
+            src="https://streak-stats.demolab.com?user=muzamilmeerdev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff"
+            alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
+<br />
+
+<!--Contribution Calendar-->
+<h2 align="center">📈 Gɪᴛʜᴜʙ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Cᴀʟᴇɴᴅᴀʀ 📈</h2>
+
+<p align="center">
+  <img src="./graph..png" width="100%" alt="GitHub Contribution Calendar">
+</p>
+
 <br />
 
 <!--Contact Section--> 
