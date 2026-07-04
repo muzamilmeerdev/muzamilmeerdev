@@ -66,7 +66,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-     <img src="./graph.png" width="100%" alt="Contribution Graph">
+     <img src="./graph..png" width="100%" alt="Contribution Graph">
     </picture>
   </a>
 </p>
