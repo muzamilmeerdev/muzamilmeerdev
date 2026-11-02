@@ -1,129 +1,134 @@
-<!--Banner-->
-![banner image](./banner.png)
+<!-- HEADER BANNER -->
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ MUZAMIL!
-<br /> 
-
-<!--Start Intro-->               
-<p align="left">A passionate developer | Full-Stack Explorer | Creative UI/UX Craftsman from India.</p><br>
-- I’m currently working on : [Portfolio Website](https://bandipora-com.vercel.app/)
-<br>
-- 🌱 I’m currently learning ***Next.js, Tailwind, GSAP, Three.js, FastAPI**
-
-- 👯 I’m looking to collaborate on [WellCome-To-Bandipora-Explore](https://bandipora-com.vercel.app/)
-
-- 💬 Ask me about **React, GSAP, Tailwind, Three.js, API integrations**
-
-- 📫 How to reach me **muzamilmeer598@gmail.com**
-
-
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muzamilmeerdev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="muzamilmeerdev" style="padding-right:20px;" />
-</p>
-
----
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in GSAP animations and WebGL.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
-
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/muzamilmeerdev">🔥 Latest Blogs</a></li>
-  <li><a href="https://dev.to/muzamilmeerdev">🔥DEV.TO profile <1 min🙂</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
-
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-
-<p align="center">
-  <a href="https://github.com/muzamilmeerdev">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img
-        alt="GitHub Trophies"
-        src="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-
----
-
-<!--Github stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muzamilmeerdev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=muzamilmeerdev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" />
-</p>
-
-<br />
-
-<!--Contribution Calendar-->
-<h2 align="center">📈 Gɪᴛʜᴜʙ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Cᴀʟᴇɴᴅᴀʀ 📈</h2>
-
-<p align="center">
-  <img src="./graph..png" width="100%" alt="GitHub Contribution Calendar">
-</p>
-
-<br />
-
-<!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  
-<a href="mailto:muzamilmeerdev@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="muzamilmeer598@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/muzamilmeerdev" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="muzamilmeerdev" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/muzamilmeerdev" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="muzamilmeerdev" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/muzamilmeerdev" target="_blank">
-<img src="./github.png" width=50 height=50 alt="muzamilmeerdev" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/muzamilmeerdev/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/muzamilmeerdev/" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="muzamilmeerdev" style="margin-bottom: 5px;" />
-</a>
+  <img src="./banner.png" width="100%" alt="Muzamil's Developer Banner"/>
 </div>
-<br/>
+
+<!-- INTRODUCTION -->
+
+<div align="center">
+  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="180" align="right" alt="Night Owl"/>
+
+  <h1>👋 Hey, I'm MUZAMIL!</h1>
+  <h3>Full-Stack Developer | Creative UI/UX Craftsman | Tech Explorer</h3>
+  <p>Building modern digital experiences with creativity, code and curiosity. 🚀</p>
+
+  <img src="https://komarev.com/ghpvc/?username=muzamilmeerdev&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+<br clear="right"/>
+
+---
+
+### 👨‍💻 About Me
+
+* 🌍 Based in India.
+* 💻 Passionate about Full-Stack Development and modern web technologies.
+* 🔭 Currently working on **[Bandipora](https://bandipora-com.vercel.app/)**
+* 🌱 Exploring **Next.js, Tailwind CSS, GSAP, Three.js & FastAPI**.
+* 🤝 Interested in collaborating on creative web projects.
+* 💬 Ask me about **React, GSAP, Tailwind, Three.js & API Integrations**.
+* 📫 Reach me at **[muzamilmeer598@gmail.com](mailto:muzamilmeer598@gmail.com)**.
+
+---
+
+### ⚡ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,threejs,gsap,python,fastapi,nodejs,git,github,vscode&perline=8" />
+
+</div>
+
+### 🎯 Currently Exploring
+
+* Advanced GSAP animations and WebGL.
+* Modern React architecture and state management.
+* Interactive 3D experiences using Three.js.
+* Backend development and API integrations.
+* Cloud technologies and deployment.
+
+---
+
+### 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://bandipora-com.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muzamilmeerdev&repo=UPI-QR-Generator&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muzamilmeerdev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muzamilmeerdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamilmeerdev&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzamilmeerdev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamilmeerdev&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+---
+
+### ✍️ Latest Blog Posts
+
+<div align="center">
+
+🔥 [Explore My DEV Community](https://dev.to/muzamilmeerdev)
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:muzamilmeer598@gmail.com">
+  <img src="./gmail.png" width="45" alt="Gmail"/>
+</a>
+<a href="https://x.com/muzamilmeerdev">
+  <img src="./twitter.png" width="45" alt="X"/>
+</a>
+<a href="https://www.instagram.com/software_developer_bandipora/">
+  <img src="./instagram.png" width="45" alt="Instagram"/>
+</a>
+<a href="https://github.com/muzamilmeerdev">
+  <img src="./github.png" width="45" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/bandiporasoftwaredeveloper/">
+  <img src="./linkedin.png" width="45" alt="LinkedIn"/>
+</a>
+<a href="https://dev.to/muzamilmeerdev">
+  <img src="./dev_to.png" width="45" alt="DEV Community"/>
+</a>
+
+<br/><br/>
+
+**"Turning ideas into interactive digital experiences."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
